@@ -1,0 +1,32 @@
+.three {
+    display: flex;
+    flex-direction: row;
+}
+
+.first {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second {
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
